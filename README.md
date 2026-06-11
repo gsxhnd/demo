@@ -1,6 +1,7 @@
-<div align="center">
-
 <!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" />
 
@@ -113,10 +114,6 @@
 ---
 
 ## 💡 Philosophy
-
-> Code should be simple to use, easy to inspect, and reliable under pressure.
-
-> Build fast, keep it clear, and make it pleasant to maintain.
 
 <div align="center">
 
